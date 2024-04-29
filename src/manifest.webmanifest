@@ -1,7 +1,7 @@
 {
   "name": "Digital-Kissan",
   "short_name": "digital-kissan",
-  "theme_color": "#1976d2",
+  "theme_color": "#01000a",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
